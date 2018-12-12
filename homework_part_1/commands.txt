@@ -108,11 +108,6 @@ mkdir yavin_4
 
 
 
-
-
-
-
-
 12. cd death_star
 
 mv millenium_falcon/ cd ../yavin_4
@@ -129,8 +124,6 @@ cd yavin_4
 13. mkdir x-wing/
 
 ls
-
-
 
 
 
@@ -174,10 +167,7 @@ ls
 
 
 
-
-
 17. mv darth_vader.txt tie_fighter_1/
-
 
 
 
@@ -245,9 +235,3 @@ mv millenium yavin_4/
 cd yavin_4
 
 ls
-
-
-
-
-
-
